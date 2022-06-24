@@ -1,0 +1,12 @@
+{
+    "servers": [
+        {
+            "name": "US West 1",
+            "url": "https://uswest1.watchtube.app"
+        },
+        {
+            "name": "UK 1",
+            "url": "https://uk1.watchtube.app"
+        }
+    ]
+}
