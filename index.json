@@ -1,16 +1,16 @@
 {
-    "regions": {
-        "us-west": [
+    "servers": [
             {
+                "regionDisplay": "US West",
+                "region": "us-west",
                 "name": "US West 1",
-                "url": "https://uswest1.watchtube.app"
-            }
-        ],
-        "uk": [
+                "url": "https://uswest1.watchtube.app/"
+            },
             {
+                "regionDisplay": "UK",
+                "region": "uk",
                 "name": "UK 1",
-                "url": "https://uk1.watchtube.app"
+                "url": "https://uk1.watchtube.app/"
             }
         ]
-    }
 }
