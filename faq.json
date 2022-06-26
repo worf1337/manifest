@@ -1,0 +1,18 @@
+[
+  {
+    "title": "I cannot hear audio!",
+    "article": [
+      { "type":"text", "content":"To enable audio, you need to unmute your watch. First open control centre." },
+      { "type":"image", "content":"https://cdn.discordapp.com/attachments/921892965205561435/989804134641307668/incoming-BBDB3614-BDD8-45F2-805D-B10FDB933E0D.png" },
+      { "type":"text", "content":"⬆️ Swipe up from the very bottom of the screen to enter control center and look for that little bell icon." },
+      { "type":"image", "content":"https://cdn.discordapp.com/attachments/921892965205561435/989804134846836756/incoming-3F4927F1-D34E-44AC-978E-20315D4B8E2C.png" },
+      { "type":"text", "content":"This bell should be grey rather than red/pink. If it's grey then you're done!" }
+    ]
+  },
+  {
+    "title": "Sometimes the video player goes white and doesn’t play the video",
+    "article": [
+      { "type":"text", "content":"Go back to the play screen and then click play again, it’ll probably work this time. We use HLS (streaming) now so it’s faster than buffering the entire video. Due to network speeds on the Apple Watch though, the player can just give up loading the video immediately."
+    ]
+  }
+]
