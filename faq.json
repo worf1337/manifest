@@ -14,5 +14,11 @@
     "article": [
       { "type":"text", "content":"Go back to the play screen and then click play again, it’ll probably work this time. We use HLS (streaming) now so it’s faster than buffering the entire video. Due to network speeds on the Apple Watch though, the player can just give up loading the video immediately."
     ]
+  },
+  {
+    "title": "The app crashes when I play a video!",
+    "article": [
+      { "type":"text", "content":"Are you on watchOS 9 beta 1/2? Apple broke media playback and this might be fixed in beta 3 or later." }
+    ]
   }
 ]
