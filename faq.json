@@ -12,7 +12,7 @@
   {
     "title": "Sometimes the video player goes white and doesn’t play the video",
     "article": [
-      { "type":"text", "content":"Go back to the play screen and then click play again, it’ll probably work this time. We use HLS (streaming) now so it’s faster than buffering the entire video. Due to network speeds on the Apple Watch though, the player can just give up loading the video immediately."
+      { "type":"text", "content":"Go back to the play screen and then click play again, it’ll probably work this time. We use HLS (streaming) now so it’s faster than buffering the entire video. Due to network speeds on the Apple Watch though, the player can just give up loading the video immediately."}
     ]
   },
   {
