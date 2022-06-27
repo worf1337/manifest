@@ -1,22 +1,38 @@
 {
+    "regionDisplay": {
+        "na": "North America",
+        "eu": "Europe",
+        "asia": "Asia"
+    },
+    "countryDisplay": {
+        "us": "United States",
+        "uk": "United Kingdom",
+        "in": "India"
+    },
     "servers": [
-            {
-                "regionDisplay": "US West",
-                "region": "us-west",
-                "name": "US West 1",
-                "url": "https://uswest1.watchtube.app/"
-            },
-            {
-                "regionDisplay": "UK",
-                "region": "uk",
-                "name": "UK 1",
-                "url": "https://uk1.watchtube.app/"
-            },
-            {
-                "regionDisplay": "US East",
-                "region": "us-east",
-                "name": "US East 1",
-                "url": "https://useast1.watchtube.app/"
-            }
-        ]
+        {
+            "region": "na",
+            "country": "us",
+            "name": "US West 1",
+            "url": "https://uswest1.watchtube.app/"
+        },
+        {
+            "region": "na",
+            "country": "us",
+            "name": "US East 1",
+            "url": "https://useast1.watchtube.app/"
+        },
+        {
+            "region": "eu",
+            "country": "uk",
+            "name": "UK 1",
+            "url": "https://uk1.watchtube.app/"
+        },
+        {
+            "region": "asia",
+            "country": "in",
+            "name": "India 1",
+            "url": "https://in1.watchtube.app/"
+        }
+    ]
 }
