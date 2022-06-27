@@ -11,6 +11,12 @@
                 "region": "uk",
                 "name": "UK 1",
                 "url": "https://uk1.watchtube.app/"
+            },
+            {
+                "regionDisplay": "US East",
+                "region": "us-east",
+                "name": "US East 1",
+                "url": "https://useast1.watchtube.app/"
             }
         ]
 }
