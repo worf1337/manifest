@@ -32,6 +32,14 @@
             "name": "UK 1",
             "url": "https://uk1.watchtube.app/"
         },
+                {
+            "region": "eu",
+            "regionDisplay": "Europe",
+            "country": "uk",
+            "countryDisplay": "United Kingdom",
+            "name": "UK 2",
+            "url": "https://uk2.watchtube.app/"
+        },
         {
             "region": "asia",
             "regionDisplay": "Asia",
