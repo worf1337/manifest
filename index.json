@@ -17,6 +17,14 @@
             "url": "https://useast1.watchtube.app/"
         },
         {
+             "region": "na",
+             "regionDisplay": "North America",
+             "country": "us",
+             "countryDisplay": "United States",
+             "name": "US East 2",
+             "url": "https://useast2.watchtube.app/"
+        },
+        {
             "region": "eu",
             "regionDisplay": "Europe",
             "country": "uk",
@@ -24,7 +32,7 @@
             "name": "UK 1",
             "url": "https://uk1.watchtube.app/"
         },
-                {
+        {
             "region": "eu",
             "regionDisplay": "Europe",
             "country": "uk",
