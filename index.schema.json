@@ -1,0 +1,45 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://manifest.watchtube.app/index.schema.json",
+  "title": "Instance List",
+  "description": "List of WatchTube servers",
+  "type": "object",
+  "required": [
+    "servers"
+  ],
+  "properties": {
+    "servers": {
+      "type": "array",
+      "items": {
+        "required": [
+          "region",
+          "regionDisplay",
+          "country",
+          "countryDisplay",
+          "name",
+          "url"
+        ],
+        "properties": {
+          "region": {
+            "pattern": "^(na|eu|asia|oceania)$"
+          },
+          "regionDisplay": {
+            "pattern": "^(North America|Europe|Asia|Oceania)$"
+          },
+          "country": {
+            "pattern": "^[a-z]{2}$"
+          },
+          "countryDisplay": {
+            "pattern": "^[A-Za-z ]+$"
+          },
+          "name": {
+            "pattern": "^[A-Za-z ]+ [0-9]+$"
+          },
+          "url": {
+            "pattern": "^https:\/\/[a-z]+[0-9]+\\.watchtube.app\/$"
+          }
+        }
+      }
+    }
+  }
+}
