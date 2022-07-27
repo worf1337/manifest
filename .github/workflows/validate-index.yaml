@@ -1,12 +1,17 @@
-name: Validate JSON
+name: Validate index.json
 on:
   push:
+    paths:
+      - "index.json"
+  pull_request:
+    paths:
+      - "index.json"
 
 jobs:
-  validate-json:
+  validate:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Validate index.json
+      - name: Validate JSON
         run: jsonschema -i index.json index.schema.json
