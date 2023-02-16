@@ -1,14 +1,6 @@
 {
     "servers": [
         {
-            "region": "na",
-            "regionDisplay": "North America",
-            "country": "us",
-            "countryDisplay": "United States",
-            "name": "US East 1",
-            "url": "https://useast1.watchtube.app/"
-        },
-        {
              "region": "na",
              "regionDisplay": "North America",
              "country": "us",
@@ -31,14 +23,6 @@
             "countryDisplay": "India",
             "name": "India 1",
             "url": "https://in1.watchtube.app/"
-        },
-        {
-            "region": "asia",
-            "regionDisplay": "Asia",
-            "country": "jp",
-            "countryDisplay": "Japan",
-            "name": "Japan 1",
-            "url": "https://jp1.watchtube.app/"
         }
     ]
 }
