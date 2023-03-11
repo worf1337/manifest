@@ -21,10 +21,10 @@
         ],
         "properties": {
           "region": {
-            "pattern": "^(na|eu|asia|oceania)$"
+            "pattern": "^(na|eu|gb|asia|oceania)$"
           },
           "regionDisplay": {
-            "pattern": "^(North America|Europe|Asia|Oceania)$"
+            "pattern": "^(North America|Europe|Great Britain|Asia|Oceania)$"
           },
           "country": {
             "pattern": "^[a-z]{2}$"
