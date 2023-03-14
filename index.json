@@ -24,6 +24,15 @@
             "countryDisplay": "India",
             "name": "India 1",
             "url": "https://in1.watchtube.app/"
+        },
+        {
+            "region": "asia",
+            "regionDisplay": "Asia",
+            "country": "jp",
+            "countryDisplay": "Japan",
+            "name": "Japan 2",
+            "url": "https://jp2.watchtube.app/"
         }
+
     ]
 }
