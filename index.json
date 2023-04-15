@@ -1,14 +1,5 @@
 {
     "servers": [
-         {
-              "region": "na",
-              "regionDisplay": "North America",
-              "country": "us",
-              "countryDisplay": "United States",
-              "name": "US East 2",
-              "url": "https://useast2.watchtube.app/"
-         },
-
         {
             "region": "gb",
             "regionDisplay": "Great Britain",
@@ -17,7 +8,7 @@
             "name": "UK 1",
             "url": "https://uk1.watchtube.app/"
         },
-{
+        {
             "region": "gb",
             "regionDisplay": "Great Britain",
             "country": "uk",
@@ -39,8 +30,7 @@
             "country": "jp",
             "countryDisplay": "Japan",
             "name": "Japan 2",
-            "url": "https://jp2.watchtube.app/"
-        }
-
+            "url": "https://jp2.watchtube.
+         }
     ]
 }
