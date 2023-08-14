@@ -1,2 +1,24 @@
 {
+    "servers": [
+        {
+            "country": "uk",
+            "name": "UK 1",
+            "url": "https://uk1.watchtube.app/"
+        },
+        {
+            "country": "uk",
+            "name": "UK 2",
+            "url": "https://uk2.watchtube.app/"
+        },
+        {
+            "country": "us",
+            "name": "US East 2",
+            "url": "https://useast2.watchtube.app/"
+        },
+        {
+            "country": "in",
+            "name": "India 1",
+            "url": "https://in1.watchtube.app/"
+        }
+    ]
 }
