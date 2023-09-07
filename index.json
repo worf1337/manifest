@@ -17,14 +17,6 @@
             "url": "https://uk2.watchtube.app/"
         },
         {
-            "region": "na",
-            "regionDisplay": "North America",
-            "country": "us",
-            "countryDisplay": "United States",
-            "name": "US East 2",
-            "url": "https://useast2.watchtube.app/"
-        },
-        {
             "region": "asia",
             "regionDisplay": "Asia",
             "country": "in",
