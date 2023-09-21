@@ -5,14 +5,6 @@
             "regionDisplay": "Great Britain",
             "country": "uk",
             "countryDisplay": "United Kingdom",
-            "name": "UK 1",
-            "url": "https://uk1.watchtube.app/"
-        },
-        {
-            "region": "gb",
-            "regionDisplay": "Great Britain",
-            "country": "uk",
-            "countryDisplay": "United Kingdom",
             "name": "UK 2",
             "url": "https://uk2.watchtube.app/"
         },
